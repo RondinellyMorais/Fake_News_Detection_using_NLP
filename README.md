@@ -1,4 +1,4 @@
-# Fake News Detection Using NLP Techniques
+# FAKE AND REAL NEWS DETECTION USING NATURAL LANGUAGE PROCESSING (NLP)
 ![nlp](https://github.com/RondinellyMorais/Fake_News_Detection_using_NLP/blob/master/nlp.jpg)
 
 The objective of this work is to build a model to detect fake news using NLP techniques to handle the text.
@@ -16,4 +16,4 @@ Every day we consume a large amount of information in different formats and from
 Briefly, let's visualize the data and join the two databases in a single dataframe. We will do the removal of stopwords and lemmatization of texts. We'll get the N-grams and a word cloud of text words. To make de fake news prediction we will use two classification machine learning models. The validation metrics used of models will be the precision, accuracy, f1-score, recall and ROC-AUC. 
 
 **The notebook with the code can be found here:** [FAKE AND REAL NEWS DETECTION USING NATURAL LANGUAGE PROCESSING (NLP)](
-https://github.com/RondinellyMorais/Fake_News_Detection_using_NLP/blob/master/FakeNews_Detection_Using_NLP.ipynb)
+https://github.com/RondinellyMorais/Fake_News_Detection_using_NLP/blob/master/FakeNews_Detection_Using_NLP.ipynb).
