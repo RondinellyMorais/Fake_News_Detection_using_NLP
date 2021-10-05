@@ -1,4 +1,5 @@
 # Fake News Detection Using NLP Techniques
+![nlp](https://github.com/RondinellyMorais/Fake_News_Detection_using_NLP/blob/master/nlp.jpg)
 
 The objective of this work is to build a model to detect fake news using NLP techniques to handle the text.
 
